@@ -2,6 +2,7 @@ The RainBow
 
 Purple
 Pink
+Yellow
 Orange
 Blue
 Red
